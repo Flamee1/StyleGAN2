@@ -1,7 +1,7 @@
 # StyleGAN2
 Fashion Generative
 
-Dependacies
+Dependencies
 
 ninja in /usr/local/lib/python3.8/dist-packages (1.11.1)
 opensimplex in /usr/local/lib/python3.8/dist-packages (0.4.3)
